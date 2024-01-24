@@ -1,4 +1,4 @@
-# Clustering-of-the-Countries
+# Country Grouping Analysis
 
 ## Objective 
 Categorise and cluster countries based on their socio-economic and health factors . Based on this , We will find out the countries which are in dire need of help .
